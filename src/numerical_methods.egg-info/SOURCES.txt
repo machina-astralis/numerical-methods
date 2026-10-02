@@ -1,0 +1,6 @@
+pyproject.toml
+src/numerical_methods.egg-info/PKG-INFO
+src/numerical_methods.egg-info/SOURCES.txt
+src/numerical_methods.egg-info/dependency_links.txt
+src/numerical_methods.egg-info/top_level.txt
+src/numethods/__init__.py
